@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9bc04db-41f8-447d-98c0-e88a3d260c2b" name="변경" comment="" />
+    <list default="true" id="c9bc04db-41f8-447d-98c0-e88a3d260c2b" name="변경" comment="feat Main Controller">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +34,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/ProgrammersJavaProject",
     "nodejs_package_manager_path": "npm",
@@ -63,11 +66,79 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677314484829</updated>
-      <workItem from="1677314486160" duration="3953000" />
+      <workItem from="1677314486160" duration="5396000" />
     </task>
+    <task id="LOCAL-00001" summary="feat init">
+      <created>1677318567659</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677318567659</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat phone company to use Enum">
+      <created>1677318614085</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677318614085</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat phone for multiple phone company">
+      <created>1677318650015</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677318650015</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat multiple phone company">
+      <created>1677318672656</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677318672656</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat make interface for duplicate method">
+      <created>1677318711829</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677318711829</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat phoneshop for buy phone">
+      <created>1677318737133</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677318737133</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat User for save userName">
+      <created>1677318761038</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677318761038</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat Main Controller">
+      <created>1677318773008</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677318773008</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat init" />
+    <MESSAGE value="feat phone company to use Enum" />
+    <MESSAGE value="feat phone for multiple phone company" />
+    <MESSAGE value="feat multiple phone company" />
+    <MESSAGE value="feat make interface for duplicate method" />
+    <MESSAGE value="feat phoneshop for buy phone" />
+    <MESSAGE value="feat User for save userName" />
+    <MESSAGE value="feat Main Controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat Main Controller" />
   </component>
 </project>

@@ -1,6 +1,6 @@
 package week1;
 
-public class ApplePhone extends Phone implements PhoneInterface {
+public class ApplePhone extends Phone{
     User user;
 
     public ApplePhone(User user) {
