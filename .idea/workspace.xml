@@ -4,8 +4,6 @@
     <list default="true" id="c9bc04db-41f8-447d-98c0-e88a3d260c2b" name="변경" comment="feat Main Controller">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/javaproject/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/javaproject/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaproject/src/week1/ApplePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaproject/src/week1/ApplePhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaproject/src/week1/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaproject/src/week1/Phone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +69,7 @@
       <updated>1677314484829</updated>
       <workItem from="1677314486160" duration="5396000" />
       <workItem from="1677504559831" duration="135000" />
+      <workItem from="1677506177860" duration="78000" />
     </task>
     <task id="LOCAL-00001" summary="feat init">
       <created>1677318567659</created>
