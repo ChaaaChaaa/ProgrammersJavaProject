@@ -1,11 +1,11 @@
-package week1;
+package PhoneProject;
 
-public class SamsongPhone extends Phone {
+public class ApplePhone extends Phone{
     User user;
 
-    public SamsongPhone(User user) {
+    public ApplePhone(User user) {
         this.user = user;
-        phoneCompany = PhoneCompany.SAMSONG;
+        phoneCompany = PhoneCompany.APPLE;
     }
 
     public void turnOnPhone() {
@@ -15,6 +15,6 @@ public class SamsongPhone extends Phone {
     }
 
     public void printPhoneState() {
-        System.out.println("★★★ 폰 켜지는 중 ★★★");
+        System.out.println("@@@ 폰 켜지는 중 @@@");
     }
 }

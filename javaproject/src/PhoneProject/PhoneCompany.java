@@ -1,4 +1,4 @@
-package week1;
+package PhoneProject;
 
 public enum PhoneCompany {
     SAMSONG("삼송폰"), APPLE("사과폰");

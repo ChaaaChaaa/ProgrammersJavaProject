@@ -1,4 +1,4 @@
-package week1;
+package PhoneProject;
 
 public interface PhoneInterface {
     void turnOnPhone();

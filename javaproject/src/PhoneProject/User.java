@@ -1,4 +1,4 @@
-package week1;
+package PhoneProject;
 
 public class User {
     String userName;

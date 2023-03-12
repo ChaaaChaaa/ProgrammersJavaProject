@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9bc04db-41f8-447d-98c0-e88a3d260c2b" name="변경" comment="feat Main Controller">
+      <change afterPath="$PROJECT_DIR$/javaproject/src/Food/Entity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaproject/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/javaproject/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaproject/src/week1/ApplePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaproject/src/PhoneProject/ApplePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaproject/src/week1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaproject/src/PhoneProject/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaproject/src/week1/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaproject/src/PhoneProject/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaproject/src/week1/PhoneCompany.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaproject/src/PhoneProject/PhoneCompany.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaproject/src/week1/PhoneInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaproject/src/PhoneProject/PhoneInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaproject/src/week1/PhoneShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaproject/src/PhoneProject/PhoneShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaproject/src/week1/SamsongPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaproject/src/PhoneProject/SamsongPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaproject/src/week1/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaproject/src/PhoneProject/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +54,8 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="week1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.Main" />
+    <configuration name="PhoneProject.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhoneProject.Main" />
       <module name="ProgrammersJavaProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -55,7 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.week1.Main" />
+        <item itemvalue="애플리케이션.PhoneProject.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -70,6 +78,9 @@
       <workItem from="1677314486160" duration="5396000" />
       <workItem from="1677504559831" duration="135000" />
       <workItem from="1677506177860" duration="78000" />
+      <workItem from="1678017606987" duration="14841000" />
+      <workItem from="1678290747773" duration="1190000" />
+      <workItem from="1678592173589" duration="363000" />
     </task>
     <task id="LOCAL-00001" summary="feat init">
       <created>1677318567659</created>
